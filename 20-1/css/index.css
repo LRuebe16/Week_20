@@ -29,14 +29,13 @@ footer {
 }
 
 #carouselExampleFade{
-  margin-bottom: 50px;
-  margin-top: 50px;
+ margin: 0 auto;
+ max-width: 600px;
+ box-shadow: 4px 4px 4px #0000009d;
 }
 
-.dropdown{
-  margin-bottom: 50px;
-  margin-top: 50px;
-  text-align: center;
+#dropdownMenuButton{
+  margin: 0 auto;
 }
 
 .accordion {
