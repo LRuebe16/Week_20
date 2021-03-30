@@ -7,6 +7,39 @@ footer {
   margin-top: 50px;
 }
 
-.card {
-
+.card{
+  margin: 0 auto;
 }
+
+.cardContainer {
+ margin-bottom: 15px;
+}
+
+.form-group{
+  margin: 35px atuo;
+  background-color: #f2f2f2;
+  padding: 25px;
+  border-radius: 7px;
+}
+
+.signUp{
+ padding-bottom: 50px;
+ padding-left: 50px;
+ margin:0 auto;
+}
+
+#carouselExampleFade{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.dropdown{
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.accordion {
+  margin: 0 auto;
+}
+
