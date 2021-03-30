@@ -34,8 +34,9 @@ footer {
  box-shadow: 4px 4px 4px #0000009d;
 }
 
-#dropdownMenuButton{
+.dropdownD{
   margin: 0 auto;
+  text-align: center;
 }
 
 .accordion {
